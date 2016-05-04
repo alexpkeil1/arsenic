@@ -1,3 +1,5 @@
+#clever way to only get some files: 
+# http://stackoverflow.com/questions/1279533/is-there-a-way-to-tell-git-to-only-include-certain-files-instead-of-ignoring-cer
 *.R
 *.sas
 *.sh
